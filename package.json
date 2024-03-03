@@ -1,0 +1,26 @@
+{
+"name": "2elestia-ynosure-cho",
+"version": "1.0.0",
+"description": "Get ready to conquer your projects with confidence using our robust and reliable project management solution",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/nitytu24/CelestialCynosureEcho.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "nitytu24",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
